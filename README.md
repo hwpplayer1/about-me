@@ -13,5 +13,8 @@ I'm interested in Free and Open Source communities , foundations and companies. 
 
 I use Trisquel GNU/Linux 8 Flidas with Linux-libre and GNOME Shell 3.18.5 I have several virtual machines to test software such as Rhel 7.8 server developer subscription , Fedora workstation 31 , Debian 10.3 , Triskel-9 , Ubuntu 18.04 , OpenSUSE Leap 15.1 , Haiku and Pardus Server 19.2 soon i will create a virtual machine for BSD* systems
 
+My PGP key for mertgor at gmail dot com is 0x7E4E55F2 which you may find at https://keyserver.pgp.com/vkd/GetWelcomeScreen.event
+My PGP key for mertgor at dismail dot de is 0x98A22527 you may found it in the same keyserver
+
 Thanks for your interest and Happy hacking ! 
 
