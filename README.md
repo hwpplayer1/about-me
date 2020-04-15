@@ -1,5 +1,7 @@
 Hi there !
 
+<img src="/pictures/mertgor-large-red.jpeg" alt="hwpplayer1" class="inline"/>
+
 My name is Mert Gör , i studied Economics in Bilecik Şeyh Edebali University (http://bilecik.edu.tr/) , then attended courses at Bilişim Eğitim (http://www.bilisimegitim.com/) for Windows System Administration and Cisco Network after that courses i wanted to learn programming and attended courses at C and System Programmers Association for Assembly ( nasm and some gnu assembly ) , C and System Programming.
 
 My main interest is System programming for the meaning of System programming please have a look at :
