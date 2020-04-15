@@ -10,3 +10,14 @@ Offensive-Security : https://www.offensive-security.com/
 
 System76           : https://system76.com/
 
+Google             : https://about.google/
+
+Microsoft          : https://www.microsoft.com/en-us/
+
+Apple              : https://www.apple.com/
+
+Nextcloud          : https://nextcloud.com/
+
+Cisco              : https://www.cisco.com/
+
+Owncloud           : https://owncloud.com/
