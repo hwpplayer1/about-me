@@ -21,3 +21,5 @@ Nextcloud          : https://nextcloud.com/
 Cisco              : https://www.cisco.com/
 
 Owncloud           : https://owncloud.com/
+
+BGA Security       : https://www.bgasecurity.com/
