@@ -1,0 +1,12 @@
+Debian GNU/Linux 10.3
+Fedora GNU/Linux Workstation 31
+Fedora GNU/Linux Workstation 32 (Beta)
+FreeBSD 12.1-RELEASE
+Haiku
+OpenSUSE GNU/Linux Leap 15.1
+Pardus GNU/Linux Server 19.2
+Rhel GNU/Linux 7.8 with developer subscription
+Triskel GNU/Linux 9
+Trisquel GNU/Linux 8
+Trisquel GNU/Linux 9
+Ubuntu GNU/Linux 18.04
