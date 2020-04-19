@@ -6,7 +6,7 @@ My name is Mert Gör , i graduated Economics in [Bilecik Şeyh Edebali Universit
 
 My main interest is System programming for the meaning of System programming please have a look at :
 
-1) [Systems programming]https://en.wikipedia.org/wiki/Systems_programming
+1) [Systems programming](https://en.wikipedia.org/wiki/Systems_programming)
 2) [Who is the system programmer](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zmainframe/zconc_sysprogrole.htm)
 
 I am also at Wikipedia for both English and Turkish pages : [Mert Gör at English Wikipedia](https://en.wikipedia.org/wiki/User:MertGor) and [Mert Gör at Turkish Wikipedia](https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:MertGor)
