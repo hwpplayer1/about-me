@@ -1,10 +1,10 @@
 I'm following that datacenters for my development purposes :
 
-Vikings         : https://vikings.net/
+[Vikings](https://vikings.net/)
 
-Azure           : http://azure.microsoft.com/en-us/
+[Azure](http://azure.microsoft.com/en-us/)
 
-Google Cloud    : https://cloud.google.com/
+[Google Cloud](https://cloud.google.com/)
 
 Please let me know about other datacenters by creating an issue And i'll add those links to README.md file
 
