@@ -1,27 +1,29 @@
 In this section i'm going to add companies that i'm interested in For other companies to be added into the list please create an issue at about-me repository :
 
-Canonical          : https://canonical.com/
+[Canonical](https://canonical.com/)
 
-Red Hat            : https://www.redhat.com/en
+[Red Hat](https://www.redhat.com/en)
 
-SUSE               : https://www.suse.com/
+[SUSE](https://www.suse.com/)
 
-Offensive-Security : https://www.offensive-security.com/
+[Offensive-Security](https://www.offensive-security.com/)
 
-System76           : https://system76.com/
+[System76](https://system76.com/)
 
-Google             : https://about.google/
+[Google](https://about.google/)
 
-Microsoft          : https://www.microsoft.com/en-us/
+[Microsoft](https://www.microsoft.com/en-us/)
 
-Apple              : https://www.apple.com/
+[Apple](https://www.apple.com/)
 
-Nextcloud          : https://nextcloud.com/
+[Nextcloud](https://nextcloud.com/)
 
-Cisco              : https://www.cisco.com/
+[Cisco](https://www.cisco.com/)
 
-Owncloud           : https://owncloud.com/
+[Owncloud](https://owncloud.com/)
 
-BGA Security       : https://www.bgasecurity.com/
+[BGA Security](https://www.bgasecurity.com/)
 
-Arquanum           : https://www.arquanum.com/
+[Arquanum](https://www.arquanum.com/)
+
+[Collabora](https://www.collabora.com/)

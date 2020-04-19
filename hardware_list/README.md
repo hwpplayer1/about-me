@@ -4,7 +4,7 @@ CPU      : Intel Core i5-4200M 2.5 GHZ with Turbo boost up to 3.1 GHZ
 
 RAM      : 12 GB DDR3 L Memory
 
-SSD      : Samsung SSD 850
+SSD      : Samsung SSD 850 with 250 GB disk space
 
 Graphics : Nvidia GT 750M
 
