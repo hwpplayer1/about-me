@@ -6,7 +6,7 @@ I have a laptop,Acer Aspire V3-772G : Intel Core i5-4200M, NVIDIA GeForce 750M, 
 
 ## About applications
 
-    Mostly i use free software both on my laptop and phone. Some applications are non-free but i dont't use them for my projects only to join some software related groups.
+Mostly i use free software both on my laptop and phone. Some applications are non-free but i dont't use them for my projects only to join some software related groups.
 
 ## My Education and Career
 
