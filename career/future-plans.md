@@ -10,7 +10,7 @@ Mostly i use free software both on my laptop and phone. Some applications are no
 
 ## My Education and Career
 
-My name is Mert Gör , i graduated Economics in [Bilecik Şeyh Edebali University](http://bilecik.edu.tr/) , and then attended courses at [Bilişim Eğitim](http://www.bilisimegitim.com/) for Windows System Administration and Cisco Network after that courses i wanted to learn programming and attended courses at [C and System Programmers Association](http://www.csystem.org/) for Assembly ( nasm and some gnu assembly ) , C and System Programming.
+I graduated Economics in [Bilecik Şeyh Edebali University](http://bilecik.edu.tr/) , and then attended courses at [Bilişim Eğitim](http://www.bilisimegitim.com/) for Windows System Administration and Cisco Network after that courses i wanted to learn programming and attended courses at [C and System Programmers Association](http://www.csystem.org/) for Assembly ( nasm and some gnu assembly ) , C and System Programming.
 
 My main interest is System programming , for the meaning of System programming please have a look at :
 
