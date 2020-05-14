@@ -6,10 +6,11 @@ My name is Mert Gör , i graduated Economics in [Bilecik Şeyh Edebali Universit
 
 My main interest is System programming , for the meaning of System programming please have a look at :
 
-1) [Systems programming](https://en.wikipedia.org/wiki/Systems_programming)
-2) [Who is the system programmer](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zmainframe/zconc_sysprogrole.htm)
+1. [Systems programming](https://en.wikipedia.org/wiki/Systems_programming)
+2. [Who is the system programmer](https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zmainframe/zconc_sysprogrole.htm)
 
-I'm also interested in Web technologies for more information please create an issue at about-me repository.
+I started a service for "Internet Technologies" and Web Programming(HTML,CSS,JS,Bootstrap,PHP,Laravel),Wordpress,OpenCart and other web applications.
 
-Thanks for your interest 
+If you have questions about these two disciplines please create an issue on this repository.
 
+Thanks for your interest !
