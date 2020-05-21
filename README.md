@@ -13,4 +13,6 @@ I started a service for "Internet Technologies" and Web Programming(HTML,CSS,JS,
 
 If you have questions about these two disciplines please create an issue on this repository.
 
+I only offer Free Software for my services please don't ask for non-free projects.
+
 Thanks for your interest !
