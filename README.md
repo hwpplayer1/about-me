@@ -1,6 +1,6 @@
 Hi there !
 
-<img src="/pictures/mertgor-large-red.jpeg" alt="hwpplayer1" class="inline"/>
+<img src="/pictures/mertgor-large-red.jpeg" alt="hwpplayer1" class="inline" width="100px" height="100px"/>
 
 My name is Mert Gör , i graduated Economics in [Bilecik Şeyh Edebali University](http://bilecik.edu.tr/) , and then attended courses at [Bilişim Eğitim](http://www.bilisimegitim.com/) for Windows System Administration and Cisco Network after that courses i wanted to learn programming and attended courses at [C and System Programmers Association](http://www.csystem.org/) for Assembly ( nasm and some gnu assembly ) , C and System Programming.
 
