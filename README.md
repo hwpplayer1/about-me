@@ -15,4 +15,8 @@ If you have questions about these two disciplines please create an issue on this
 
 I only offer Free Software for my services please don't ask for non-free projects.
 
+I started a project for Coreboot, GNU, Linux-libre and Milis Linux distribution. And also a hackathon project named procyberian. 
+
+Please read here : [Masscollabs Services Projects](https://www.masscollabs.com/?page_id=76) 
+
 Thanks for your interest !
