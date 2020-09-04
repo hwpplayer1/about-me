@@ -7,8 +7,7 @@
         Free Documentation License".
 		
 		
-	   <one line to give the program's name and a brief idea of what it does.>
-       Copyright (C) 2020  Mert Gör
+	   Copyright (C) 2020  Mert Gör
 
 	   This program is free software: you can redistribute it and/or modify
        it under the terms of the GNU Affero General Public License as published
@@ -23,6 +22,7 @@
        You should have received a copy of the GNU Affero General Public License
        along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+	   How to reach me: mertgor at masscollabs dot com 
 
 Hi there !
 
